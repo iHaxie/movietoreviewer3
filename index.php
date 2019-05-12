@@ -24,7 +24,7 @@
 </head>
 
 <body>
-     <?php require_once('inc/header.php')?>
+      <?php require_once('inc/header.php')?>
 
       <section class="seccion contenedor">
         <h2>La mejor pagina de reviewers sobre peliculas</h2>
