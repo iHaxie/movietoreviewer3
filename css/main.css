@@ -287,7 +287,7 @@ textarea {
             line-height: 1; 
         }
     }
-/** Barra **/
+    /** Barra **/
 
     div.barra {
         background-color: #353535;
@@ -591,7 +591,7 @@ textarea {
 
     form.registro label {
         margin-bottom: 5px;
-        font-weight: 
+        font-weight: 10px;
     }
 
     div.caja {
