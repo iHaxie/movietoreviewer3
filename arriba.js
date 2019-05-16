@@ -4,15 +4,15 @@ $ (document).ready (function () {
       {
         scrollTop: '0px',
       },
-      300
+      200
     );
   });
 
   $ (window).scroll (function () {
     if ($ (this).scrollTop () > 0) {
-      $ ('.ir-arriba').slideDown (300);
+      $ ('.ir-arriba').slideDown (200);
     } else {
-      $ ('.ir-arriba').slideUp (300);
+      $ ('.ir-arriba').slideUp (200);
     }
   });
 });
